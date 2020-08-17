@@ -13,7 +13,7 @@ Steps to install and setup virtualenv:
     
     You can also use a Python interpreter of your choice: `virtualenv -p /usr/bin/python2.7 venv`
 
-4. Active your virtual environment: 
+4. Activate your virtual environment: 
 
     `source venv/bin/activate`
 
